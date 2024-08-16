@@ -5,3 +5,7 @@
 <div align="center">
     <h1>Clean Code - ReactJS</h1>
 </div>
+
+## Run
+- `yarn`
+- `yarn start`
