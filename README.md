@@ -6,6 +6,8 @@
     <h1>Clean Code - ReactJS</h1>
 </div>
 
+- ReactJS
+
 ## Run
 - `yarn`
 - `yarn start`
